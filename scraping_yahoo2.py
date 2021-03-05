@@ -37,7 +37,7 @@ def main():
     with open('yahoo2_result.txt', 'w') as f:
         f.write('\n'.join(result))  # 検索キーワードとURLをセットにしてテキストファイルに書き出す
 
-    driver.quit()  # ブラウザーを閉じる
+    driver.quit()  # ブラウザを閉じる
 
 
 def search(driver, keyword):

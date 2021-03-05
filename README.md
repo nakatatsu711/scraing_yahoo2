@@ -20,5 +20,5 @@ Python：3.6.9
 # 実行方法
 
 ```
-python scraping_yahoo2.py
+$ python scraping_yahoo2.py
 ```

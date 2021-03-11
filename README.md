@@ -64,5 +64,5 @@ ChromeDriverをダウンロードしたら解凍して、任意の場所に配�
 ### 実行
 コマンドラインで実行します。
 ```
-$ python scraping_yahoo2
+$ python scraping_yahoo2.py
 ```
